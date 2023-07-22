@@ -8,6 +8,8 @@ import shelljs from "shelljs";
 import Listr from "listr";
 import { projectInstall } from "pkg-install";
 
+import { of } from "rxjs";
+
 const access = promisify(fs.access);
 const copy = promisify(ncp);
 
