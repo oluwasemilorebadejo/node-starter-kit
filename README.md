@@ -6,11 +6,11 @@ Node Starter Kit is a command-line interface (CLI) tool that allows developers t
 
 To install Node Starter Kit, you need to have Node.js and npm (Node Package Manager) installed on your system. Once you have Node.js installed, open your terminal and run the following command:
 
-`npm install @oluwasemilore/node-starter-kit`
+`npm install -g @oluwasemilore/node-starter-kit`
 
 ## Usage
 
-After installing Node Starter Kit, you can run it from the command line using the following command:
+After installing Node Starter Kit, simply run the command in the project directory using the following command:
 
 `node-starter-kit template [options]`
 
