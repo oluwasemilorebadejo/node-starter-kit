@@ -2,7 +2,7 @@
   "name": "@oluwasemilore/node-starter-kit",
   "version": "1.0.2",
   "description": "starter kit to boostrap nodejs projects",
-  "main": "src/index.js",
+  "main": "bin/node-starter-kit",
   "bin": {
     "@oluwasemilore/node-starter-kit": "bin/node-starter-kit",
     "node-starter-kit": "bin/node-starter-kit"
