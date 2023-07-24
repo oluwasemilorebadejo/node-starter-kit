@@ -33,7 +33,7 @@ The templates include:
 
 `node-starter-kit`
 
-This will prompt you to choose a project template (JavaScript or TypeScript) and whether to initialize a Git repository.
+This will prompt you to choose a project template (JavaScript or TypeScript) and whether to initialize a Git repository. And won't run npm install
 
 ### Create a JavaScript project with Git initialized and dependencies installed:
 
